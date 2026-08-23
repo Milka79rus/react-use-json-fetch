@@ -1,4 +1,5 @@
 # Пользовательский хук useJsonFetch (Hooks & Context)
+[![Deploy React App to GitHub Pages](https://github.com/Milka79rus/react-use-json-fetch/actions/workflows/deploy.yml/badge.svg)](https://github.com/Milka79rus/react-use-json-fetch/actions/workflows/deploy.yml)
 
 Учебный проект на **React** и **TypeScript**, демонстрирующий реализацию и использование пользовательского хука `useJsonFetch` для автоматизации HTTP-запросов.
 
